@@ -66,4 +66,3 @@ Password: Test@123
 
 🔗 [Click here to view the live project](http://localhost/dets/dets/) 
 
-
